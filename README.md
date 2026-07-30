@@ -7,6 +7,7 @@ I'm currently learning C and building projects as I learn. This profile is mainl
 ## Current Focus
 
 - C
+- Python
 - Data Structures & Algorithms
 - Git
 - Software Engineering Fundamentals
@@ -23,7 +24,7 @@ You'll mostly find:
 
 ## Tech
 
-![My Skills](https://skillicons.dev/icons?i=c,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=c,python,git,github,vscode,visualstudio)
 
 ## Goals
 
