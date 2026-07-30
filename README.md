@@ -1,16 +1,37 @@
-## Hi there 👋
+# Joshwell
 
-<!--
-**joshwell-glitch/joshwell-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student.
 
-Here are some ideas to get you started:
+I'm currently learning C and building projects as I learn. This profile is mainly a collection of the work I've done, things I'm experimenting with, and projects that help me understand programming better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- C
+- Data Structures & Algorithms
+- Git
+- Software Engineering Fundamentals
+
+## Repositories
+
+You'll mostly find:
+
+- Console applications
+- Programming exercises
+- Small utilities
+- Learning projects
+- Future personal projects
+
+## Tech
+
+![My Skills](https://skillicons.dev/icons?i=c,git,github,vscode)
+
+## Goals
+
+- Build projects consistently
+- Improve problem-solving
+- Learn how software works beyond the code
+- Keep making things that are better than the last
+
+---
+
+If you're here to look at my code, start with the pinned repositories.
