@@ -1,6 +1,6 @@
-# Joshwell
+# Greetings, I am Joshwell!
 
-Computer Science student.
+A Computer Science student.
 
 I'm currently learning C and building projects as I learn. This profile is mainly a collection of the work I've done, things I'm experimenting with, and projects that help me understand programming better.
 
@@ -8,8 +8,8 @@ I'm currently learning C and building projects as I learn. This profile is mainl
 
 - C
 - Python
-- Data Structures & Algorithms
 - Git
+- Data Structures & Algorithms
 - Software Engineering Fundamentals
 
 ## Repositories
