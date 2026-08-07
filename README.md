@@ -8,6 +8,7 @@ I'm currently learning C and building projects as I learn. This profile is mainl
 
 - C
 - Python
+- Java
 - Git
 - Data Structures & Algorithms
 - Software Engineering Fundamentals
@@ -24,7 +25,7 @@ You'll mostly find:
 
 ## Tech
 
-![My Skills](https://skillicons.dev/icons?i=c,python,godot,git,github,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=c,python,java,godot,git,github,vscode,visualstudio)
 
 ## Goals
 
