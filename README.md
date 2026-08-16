@@ -1,8 +1,10 @@
-# Greetings, I am Joshwell! 👋
+# Hey, I'm Joshwell 👋
 
-I'm a **freshman at Visayas State University**, currently taking **Bachelor of Science in Computer Science (BSCS)**.
+I'm a **freshman at Visayas State University** pursuing a **Bachelor of Science in Computer Science (BSCS)**.
 
-I'm passionate about programming and software development, and I'm currently building projects while learning the fundamentals of computer science. This profile showcases some of the projects I've built and the things I'm working on as I continue developing my skills.
+I'm interested in programming, software development, and understanding how things work under the hood. I learn primarily by building projects, experimenting with different technologies, and figuring out why my code breaks.
+
+This profile is where I document that process.
 
 ## 🎓 Education
 
@@ -10,69 +12,88 @@ I'm passionate about programming and software development, and I'm currently bui
 Bachelor of Science in Computer Science
 Freshman
 
-## 🚀 Current Focus
+## 🧑‍💻 What I'm Learning
+
+I'm currently focusing on strengthening my programming fundamentals and learning how to build more structured applications.
 
 * C
 * Python
 * Java
-* Git & GitHub
 * Data Structures & Algorithms
 * Object-Oriented Programming
+* Git & GitHub
+* SQL & Databases
 * Software Engineering Fundamentals
 * Problem Solving
 
-## 📂 Public Repositories
+## 🛠️ Languages & Tools
 
-My currently visible projects include:
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45" alt="GDScript"/>
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
+
+## 🚀 Projects
 
 ### 📝 To-Do List
 
-A task management application focused on practicing **Python, file handling, data persistence, and GUI development**.
+A desktop task management application built with **Python**.
 
-### 🏦 Banking System
+Currently focused on practicing:
 
-A banking application focused on practicing **programming fundamentals, application logic, and object-oriented programming concepts**.
+* GUI development
+* File handling
+* Data persistence
+* Application logic
+* Organizing UI and backend logic
 
-I also have private repositories where I keep my ongoing learning projects and programming exercises. These include projects for **C, Python, and Java** that document my practice and experimentation as I continue learning.
-
-## 🛠️ Technologies
-
-**Languages**
-
-* C
-* Python
-* Java
-
-**Tools**
-
-* Git
-* GitHub
-* Visual Studio Code
-
-**Currently Learning**
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Software Engineering
-* Application Development
-* Writing cleaner and more maintainable code
-
-## 🎯 Goals
-
-* Build projects consistently
-* Develop strong problem-solving skills
-* Understand how software works beyond just writing code
-* Learn different programming paradigms and technologies
-* Build larger and more practical applications
-* Improve my ability to write clean and maintainable code
-* Become a better programmer than I was yesterday
-
-## 📈 Learning Philosophy
-
-I believe the best way to learn programming is to **build things, break things, understand why they broke, and build them better**.
-
-This profile is a record of that process — from learning the fundamentals to gradually building more complete and practical applications.
+**Status:** 🚧 In progress
 
 ---
 
-If you're here to look through my code, feel free to check out my **public repositories**.
+### 🏦 Banking System
+
+A console-based banking system built with **C**.
+
+Built as a practical project for working with:
+
+* Functions and structures
+* File handling
+* Application logic
+* User input and validation
+* Modular program organization
+
+**Status:** Completed
+
+## 📚 Current Goals
+
+* Build more complete applications
+* Strengthen my understanding of computer science fundamentals
+* Write cleaner and more maintainable code
+* Get better at debugging and problem solving
+* Learn how different programming concepts connect
+* Gradually move from small projects to larger systems
+
+## 🎸 Beyond Code
+
+When I'm not programming, I spend time playing guitar, listening to music, playing chess, and exploring other interests.
+
+---
+
+<p align="center">
+  <sub>Learning by building, breaking, and rebuilding.</sub>
+</p>
