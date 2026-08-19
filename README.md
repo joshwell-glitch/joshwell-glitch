@@ -25,11 +25,6 @@ You'll mostly find:
 * Programming exercises
 * Personal projects
 
-### Current Projects
-
-* **Banking System** — A C-based console application built to practice programming fundamentals, file handling, and application logic.
-* **To-Do List** — A Python desktop application currently in development, focused on GUI development, task management, and data persistence.
-
 ## Tech
 
 ![My Skills](https://skillicons.dev/icons?i=c,python,java,git,github,vscode,visualstudio,sqlite,godot)
