@@ -2,14 +2,13 @@
 
 A Computer Science student at **Visayas State University**.
 
-I'm currently learning **C, C++, Python, and Java** while building projects along the way. This profile is mainly a collection of the things I've built, experimented with, and learned while developing my programming skills.
+I'm currently learning **C, C++, and Python** while building projects along the way. This profile is mainly a collection of the things I've built, experimented with, and learned while developing my programming skills.
 
 ## Current Focus
 
 * C
-* c++
+* C++
 * Python
-* Java
 * Git & GitHub
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -28,7 +27,7 @@ You'll mostly find:
 
 ## Tech
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode,visualstudio,godot)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,visualstudio,godot)
 
 ## Goals
 
