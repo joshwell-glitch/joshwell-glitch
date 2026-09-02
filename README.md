@@ -28,7 +28,7 @@ You'll mostly find:
 
 ## Tech
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode,visualstudio,sqlite,godot)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,vscode,visualstudio,godot)
 
 ## Goals
 
