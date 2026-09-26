@@ -27,7 +27,11 @@ You'll mostly find:
 
 ## Tech
 
+<<<<<<< HEAD
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,vscode,neovim,vim,git,github,arch,godot)
+=======
+![My Skills](https://skillicons.dev/icons?i=archlinux,c,cpp,python,html,css,sublime,vscode,neovim,vim,git,github,godot)
+>>>>>>> e411378 (added arch)
 
 ## Goals
 
